@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hospital Management System2</title>
+    <title>Hospital Management System3</title>
 </head>
 <body>
     <h1>Welcome to the Hospital Management System</h1>
